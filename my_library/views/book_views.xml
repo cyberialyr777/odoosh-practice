@@ -36,10 +36,11 @@
         </field>
     </record>
 
-    <menuitem 
+    <menuitem
         id="menu_library_root"
         name="My Library"
-        sequence="10"/>
+        sequence="10"
+        web_icon="my_library,static/description/icon.jpg"/>
 
     <menuitem
         id="menu_library_book"
