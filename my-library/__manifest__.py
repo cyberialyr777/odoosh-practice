@@ -7,6 +7,7 @@
     'category': 'Uncategorized',
     'depends': ['base'],
     'data': [
+        'security/ir.model.access.csv',
         'views/book_views.xml',
         ],
     'installable': True,
